@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <title>Who Am I</title>
+
+    <!-- Internal CSS -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5d2d3;
+            margin: 40px;
+        }
+
+        h1 {
+            color: #9a2e31;
+            text-align: center;
+        }
+
+        .container {
+            background-color: #ffffff;
+            border-radius: 10px;
+            padding: 20px;
+            max-width: 600px;
+            margin: auto;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+    </style>
+
+    <!-- Link to External CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <h1 style="color: darkpink;">Who Am I</h1> <!-- Inline Style -->
+
+    <div class="container">
+        <p><strong>Full Name:</strong> Zia Ayra Qistina</p>
+        <p><strong>Age:</strong> 23</p>
+        <p><strong>Educational Background:</strong> Bachelor's Degree in New Media Communication from Universiti Malaysia Perlis</p>
+    </div>
+
+</body>
+</html>
