@@ -1,0 +1,9 @@
+/* External Stylesheet */
+
+strong {
+    color: #1a73e8;
+}
+
+.container p:first-child {
+    font-style: italic;
+}
